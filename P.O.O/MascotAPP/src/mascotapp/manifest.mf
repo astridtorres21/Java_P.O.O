@@ -1,0 +1,4 @@
+run:
+chiquito
+chiquito  0  Perro
+BUILD SUCCESSFUL (total time: 8 seconds)
